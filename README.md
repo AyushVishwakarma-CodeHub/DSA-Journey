@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [3693-climbing-stairs-ii](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
