@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3693-climbing-stairs-ii](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
