@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
