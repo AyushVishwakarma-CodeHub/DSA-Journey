@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
 | [3693-climbing-stairs-ii](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 ## String
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3904-smallest-stable-index-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
