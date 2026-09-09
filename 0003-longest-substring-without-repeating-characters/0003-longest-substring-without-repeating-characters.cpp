@@ -3,7 +3,7 @@ public:
     int lengthOfLongestSubstring(string s) {
         vector <int> charMap(256 , -1);
 
-        int maxlenght = 0;
+        int maxlength = 0;
         int left = 0;
 
         for (int right = 0; right<s.size(); right++){
@@ -12,9 +12,9 @@ public:
             }
             charMap[s[right]]=right;
             
-            maxlenght = max (maxlenght , right - left +1);   
+            maxlength = max (maxlength, right - left +1);   
         }
-            return maxlenght;
+            return maxlength;
         
     }
 };
