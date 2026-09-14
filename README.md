@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
 | [0929-unique-email-addresses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0929-unique-email-addresses) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [0929-unique-email-addresses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0929-unique-email-addresses) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -119,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
