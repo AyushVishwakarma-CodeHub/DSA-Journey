@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
 | [0929-unique-email-addresses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0929-unique-email-addresses) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [0929-unique-email-addresses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0929-unique-email-addresses) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3693-climbing-stairs-ii](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 ## String
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
