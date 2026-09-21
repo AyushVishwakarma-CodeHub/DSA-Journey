@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3693-climbing-stairs-ii](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
