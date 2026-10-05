@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0856-score-of-parentheses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0929-unique-email-addresses) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
