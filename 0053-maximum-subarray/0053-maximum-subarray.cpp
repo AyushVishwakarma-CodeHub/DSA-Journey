@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
         int currSum = 0;
-        int maxSum = INT_MIN;
+        int maxSum = 0;
         for(int n : nums){
             currSum += n;
             maxSum = max(currSum, maxSum);
