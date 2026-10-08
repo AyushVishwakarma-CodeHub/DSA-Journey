@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Knapsack Problem
