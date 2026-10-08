@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0856-score-of-parentheses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0929-unique-email-addresses) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0187-repeated-dna-sequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0371-sum-of-two-integers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -176,4 +180,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0169-majority-element) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
