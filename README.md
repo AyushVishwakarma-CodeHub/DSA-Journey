@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0929-unique-email-addresses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0929-unique-email-addresses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0929-unique-email-addresses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0929-unique-email-addresses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
