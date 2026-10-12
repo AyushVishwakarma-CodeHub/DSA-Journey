@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0856-score-of-parentheses](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0856-score-of-parentheses) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AyushVishwakarma-CodeHub/DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
