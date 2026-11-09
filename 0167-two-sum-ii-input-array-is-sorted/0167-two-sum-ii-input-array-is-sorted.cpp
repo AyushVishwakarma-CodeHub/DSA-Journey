@@ -1,21 +1,19 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-      int left = 0;
-      int right = numbers.size() - 1;
+        unordered_map<int,int>mp;
+        vector<int>ans;
+        for(int i=0; i<numbers.size(); i++){
+            int first = numbers[i];
+            int second = target - first;
 
-      while(left<right){
-        int currentSum = numbers[left] + numbers[right];
-
-        if(currentSum == target){
-            return {left+1, right+1};
-        }else if(currentSum < target){
-            left++;
-        }else{
-            right--;
+            if(mp.find(second) != mp.end()){
+                ans.push_back(mp[second] + 1);
+                ans.push_back(i+1);
+                break;
+            }
+            mp[first] = i;
         }
-
-      }
-      return {};
+        return ans;
     }
 };
